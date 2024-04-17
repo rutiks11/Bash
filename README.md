@@ -1,2 +1,2 @@
-# Demo
+# Bash beginner
 This is New Repositary
